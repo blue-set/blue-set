@@ -67,6 +67,16 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 ---
 
+### 💡 Selected Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎵 Serenade Music Player**<br/>*(FOSS Hack 2025 Winner)* | Architected a cross-platform player with high-performance audio processing. Awarded 2nd Highest Cash Prize. | `Electron` `React` `.NET Core` `Web Audio API` |
+| **📈 Scalable Analytics Platform** | Engineered a data pipeline for streaming/bulk SAP ERP data with interactive PowerBI dashboards. | `Hadoop` `SAP` `PowerBI` `Terraform` `AWS` |
+| **🤖 PDF Chat Assistant** | Smart document assistant parsing complex technical PDFs with contextual understanding. | `OpenAI` `AWS S3` `TypeScript` `Node.js` `Pinecone` |
+
+---
+
 ### 🌟 Stuff I Like
 
 <div align="center">
@@ -75,17 +85,9 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 </div>
 
 <br/>
-
-### 💡 Selected Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🎵 Serenade Music Player**<br/>*(FOSS Hack 2025 Winner)* | Architected a cross-platform player with high-performance audio processing. Awarded 2nd Highest Cash Prize. | `Electron` `React` `.NET Core` `Web Audio API` |
-| **📈 Scalable Analytics Platform** | Engineered a data pipeline for streaming/bulk SAP ERP data with interactive PowerBI dashboards. | `Hadoop` `SAP` `PowerBI` `Terraform` `AWS` |
-| **🤖 PDF Chat Assistant** | Smart document assistant parsing complex technical PDFs with contextual understanding. | `OpenAI` `AWS S3` `TypeScript` `Node.js` `Pinecone` |
 <div align="center">
 
-**� Anime Favorites**
+**📺 Anime Favorites**
 <br/>
 <img src="https://img.shields.io/badge/Gintama-Silver%20Soul-C0C0C0?style=flat-square&logo=myanimelist&logoColor=white" />
 <img src="https://img.shields.io/badge/Attack%20on%20Titan-Sasageyo-5D4037?style=flat-square&logo=myanimelist&logoColor=white" />
@@ -114,9 +116,6 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 <img src="https://img.shields.io/badge/ILLIT-GLLIT-FFB6C1?style=flat-square&logo=spotify&logoColor=white" />
 
 </div>
-
----
-
 
 ---
 
