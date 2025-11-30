@@ -71,9 +71,6 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=blue-set&show_icons=true&theme=radical" alt="Vijay's GitHub Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-set&layout=compact&theme=radical" alt="Top Languages" />
   <!-- Streak Stats (Alternative) -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue-set&theme=radical" alt="GitHub Streak" />
