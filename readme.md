@@ -1,55 +1,87 @@
-# Vijay Vinod Mane
+<div align="center">
+  <h1>Hi there, I'm Vijay Vinod Mane! 👋</h1>
+  <p>
+    <b>Cloud Computing & Automation Student | Full Stack Developer | Data Enthusiast</b>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/vijay-vinod-mane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vjm240425@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/blue-set">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-Location: Navi Mumbai, Maharashtra, India  
-[LinkedIn](https://www.linkedin.com/in/vijay-vinod-mane) • [GitHub - blue-set](https://github.com/blue-set) • Email: vjm240425@gmail.com • Mobile: +91 9372160518
+<br />
+
+### 🚀 About Me
+
+I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore Institute of Technology** (Exp. 2026). I specialize in building scalable cloud-native systems, robust data pipelines, and intuitive developer tools. I love bridging the gap between high-performance backend services and seamless frontend experiences.
+
+- 🔭 I’m currently working on **Cloud-native architectures & Distributed Systems**
+- 🌱 I’m currently learning **Advanced Kubernetes & Microservices patterns**
+- 🏆 **FOSS Hack 2025 Winner** (2nd Highest Cash Prize)
+- 📍 Based in **Navi Mumbai, India**
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **B.Tech in Computer Science (Cloud Computing & Automation)** @ VIT (CGPA: 8.95)
+- ☁️ **AWS Solutions Architect** (Ethnus, 2025)
+- 💻 **MERN Foundations** (Ethnus, 2025)
 
 ---
 
-A final-year B.Tech (Cloud Computing & Automation) student at Vellore Institute of Technology with a passion for building scalable cloud-native systems, data pipelines, and developer tools. I enjoy working across the full stack and bridging frontend UX with performant backend services.
+### 🛠️ Technical Skills
 
-## Education
-
-- **Vellore Institute of Technology** — B.Tech in Computer Science (Cloud Computing & Automation), Expected 2026
-  - CGPA: 8.95
-  - Relevant coursework: Data Structures & Algorithms, Operating Systems, DBMS, Cloud Computing, Software Engineering, OOP, Machine Learning, Web Development
-
-## Technical Skills
-
-- Languages: C#, Java, Python, C++, TypeScript, SQL, HTML/CSS, Golang, R
-- Frameworks & Tools: ASP.NET Core, React, Node.js, Power BI, Git, Terraform, SAP S4/HANA
-- Cloud & Infra: AWS (EC2, S3), Azure, SAP Integration, Docker, VMWare, Kubernetes
-- Databases & OS: MySQL, MariaDB, NeonDB, DynamoDB, Hadoop; WSL, Linux (Debian, Ubuntu)
-
-## Selected Projects
-
-- **Serenade Music Player** — Electron, React, .NET Core (FOSS Hack 2025 Winner)
-  - Awarded Second Highest Cash Prize at FOSS Hack 2025 among 500+ teams.
-  - Architected a cross-platform music player using Electron for the UI and C# .NET Core for performant audio processing.
-  - Implemented media retrieval algorithms and dynamic visualizations using the Web Audio API.
-  - Led the frontend module and coordinated integration between React UI and local .NET backend services.
-
-- **Scalable Analytics & Reporting Platform** — Hadoop, SAP, Power BI (May 2024 – Aug 2024)
-  - Built a data pipeline to ingest streaming data and bulk SAP ERP records.
-  - Used Hadoop for distributed storage and Terraform for AWS provisioning.
-  - Developed interactive Power BI dashboards (DAX) for stakeholder reporting and optimized refresh intervals for near real-time insights.
-
-- **Intelligent PDF-Based Chat Assistant** — OpenAI, AWS, TypeScript (Jan 2024)
-  - Developed a document assistant capable of parsing and answering queries from complex technical PDFs.
-  - Integrated OpenAI language models for contextual query answering.
-  - Backend: Node.js, NeonDB for relational storage, Pinecone for vector embeddings; AWS S3 for secure document storage.
-
-## Achievements & Certifications
-
-- Second Highest Cash Prize — FOSS Hack 2025 (Serenade Project)
-- AWS Solutions Architect — Ethnus (2025)
-- MERN Foundations — Ethnus (2025)
-- Soft skills: Cross-functional team leadership, problem solving, Agile, technical writing
-
-## How to reach me
-
-- LinkedIn: https://www.linkedin.com/in/vijay-vinod-mane
-- GitHub: https://github.com/blue-set
-- Email: vjm240425@gmail.com
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blue-set&show_icons=true&theme=radical" alt="Vijay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-set&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 💡 Selected Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎵 Serenade Music Player**<br/>*(FOSS Hack 2025 Winner)* | Architected a cross-platform player with high-performance audio processing. Awarded 2nd Highest Cash Prize. | `Electron` `React` `.NET Core` `Web Audio API` |
+| **📈 Scalable Analytics Platform** | Engineered a data pipeline for streaming/bulk SAP ERP data with interactive PowerBI dashboards. | `Hadoop` `SAP` `PowerBI` `Terraform` `AWS` |
+| **🤖 PDF Chat Assistant** | Smart document assistant parsing complex technical PDFs with contextual understanding. | `OpenAI` `AWS S3` `TypeScript` `Node.js` `Pinecone` |
+
+---
+
+<div align="center">
+  <p><i>Let's connect and build something amazing!</i></p>
+</div>
 
