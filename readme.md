@@ -76,6 +76,13 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 <br/>
 
+### 💡 Selected Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎵 Serenade Music Player**<br/>*(FOSS Hack 2025 Winner)* | Architected a cross-platform player with high-performance audio processing. Awarded 2nd Highest Cash Prize. | `Electron` `React` `.NET Core` `Web Audio API` |
+| **📈 Scalable Analytics Platform** | Engineered a data pipeline for streaming/bulk SAP ERP data with interactive PowerBI dashboards. | `Hadoop` `SAP` `PowerBI` `Terraform` `AWS` |
+| **🤖 PDF Chat Assistant** | Smart document assistant parsing complex technical PDFs with contextual understanding. | `OpenAI` `AWS S3` `TypeScript` `Node.js` `Pinecone` |
 <div align="center">
 
 **� Anime Favorites**
@@ -85,7 +92,7 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 <img src="https://img.shields.io/badge/Grand%20Blue-Peekaboo-00BFFF?style=flat-square&logo=myanimelist&logoColor=white" />
 <img src="https://img.shields.io/badge/Konosuba-Explosion!-E5A00D?style=flat-square&logo=myanimelist&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 **�📚 Fiction & Fantasy**  
 <br/>
@@ -95,7 +102,7 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 <img src="https://img.shields.io/badge/The%20Witcher-Andrzej%20Sapkowski-A52A2A?style=flat-square&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Wheel%20of%20Time-Robert%20Jordan-228B22?style=flat-square&logo=bookstack&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 **🎧 K-Pop Playlist**  
 <br/>
@@ -110,13 +117,6 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 ---
 
-### 💡 Selected Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🎵 Serenade Music Player**<br/>*(FOSS Hack 2025 Winner)* | Architected a cross-platform player with high-performance audio processing. Awarded 2nd Highest Cash Prize. | `Electron` `React` `.NET Core` `Web Audio API` |
-| **📈 Scalable Analytics Platform** | Engineered a data pipeline for streaming/bulk SAP ERP data with interactive PowerBI dashboards. | `Hadoop` `SAP` `PowerBI` `Terraform` `AWS` |
-| **🤖 PDF Chat Assistant** | Smart document assistant parsing complex technical PDFs with contextual understanding. | `OpenAI` `AWS S3` `TypeScript` `Node.js` `Pinecone` |
 
 ---
 
