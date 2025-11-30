@@ -78,7 +78,16 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 <div align="center">
 
-**📚 Fiction & Fantasy**  
+**� Anime Favorites**
+<br/>
+<img src="https://img.shields.io/badge/Gintama-Silver%20Soul-C0C0C0?style=flat-square&logo=myanimelist&logoColor=white" />
+<img src="https://img.shields.io/badge/Attack%20on%20Titan-Sasageyo-5D4037?style=flat-square&logo=myanimelist&logoColor=white" />
+<img src="https://img.shields.io/badge/Grand%20Blue-Peekaboo-00BFFF?style=flat-square&logo=myanimelist&logoColor=white" />
+<img src="https://img.shields.io/badge/Konosuba-Explosion!-E5A00D?style=flat-square&logo=myanimelist&logoColor=white" />
+
+<br/><br/>
+
+**�📚 Fiction & Fantasy**  
 <br/>
 <img src="https://img.shields.io/badge/Brandon%20Sanderson-Cosmere-000000?style=flat-square&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Will%20Wight-Cradle-0056D2?style=flat-square&logo=bookstack&logoColor=white" />
