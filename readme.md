@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
   <h1>Hi there, I'm Vijay Vinod Mane! 👋</h1>
   <p>
     <b>Cloud Computing & Automation Student | Full Stack Developer | Data Enthusiast</b>
@@ -14,6 +13,11 @@
   <a href="https://github.com/blue-set">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  
+  <br />
+  <br />
+  
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" />
 </div>
 
 <br />
@@ -67,7 +71,7 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=blue-set&show_icons=true&theme=radical&count_private=true" alt="Vijay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blue-set&show_icons=true&theme=radical" alt="Vijay's GitHub Stats" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-set&layout=compact&theme=radical" alt="Top Languages" />
   <!-- Streak Stats (Alternative) -->
@@ -76,7 +80,7 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/G952i4vs5NQk0/giphy.gif" width="300" alt="Motivational Anime" />
+  <img src="https://media.tenor.com/q38L11JjWlAAAAAC/one-piece-luffy.gif" width="300" alt="Motivational Anime" />
   <p><i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i></p>
 </div>
 
