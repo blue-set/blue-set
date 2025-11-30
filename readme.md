@@ -67,18 +67,36 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Stats Card -->
-  <!-- Streak Stats (Alternative) -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue-set&theme=radical" alt="GitHub Streak" />
-</div>
+### 🌟 Stuff I Like
 
 <div align="center">
   <img src="https://media.tenor.com/q38L11JjWlAAAAAC/one-piece-luffy.gif" width="300" alt="Motivational Anime" />
   <p><i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+**📚 Fiction & Fantasy**  
+<br/>
+<img src="https://img.shields.io/badge/Brandon%20Sanderson-Cosmere-000000?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Will%20Wight-Cradle-0056D2?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Malazan-Book%20of%20the%20Fallen-8B0000?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/The%20Witcher-Andrzej%20Sapkowski-A52A2A?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Wheel%20of%20Time-Robert%20Jordan-228B22?style=flat-square&logo=bookstack&logoColor=white" />
+
+<br/><br/>
+
+**🎧 K-Pop Playlist**  
+<br/>
+<img src="https://img.shields.io/badge/Twice-ONCE-FF5FA2?style=flat-square&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/NMIXX-NSWER-00C3FF?style=flat-square&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/IVE-DIVE-E6007E?style=flat-square&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/ITZY-MIDZY-FF007F?style=flat-square&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/Le%20Sserafim-FEARNOT-1E1E1E?style=flat-square&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/ILLIT-GLLIT-FFB6C1?style=flat-square&logo=spotify&logoColor=white" />
+
 </div>
 
 ---
