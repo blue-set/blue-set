@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
   <h1>Hi there, I'm Vijay Vinod Mane! 👋</h1>
   <p>
     <b>Cloud Computing & Automation Student | Full Stack Developer | Data Enthusiast</b>
@@ -65,8 +66,18 @@ I'm a final-year **B.Tech (Cloud Computing & Automation)** student at **Vellore 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue-set&show_icons=true&theme=radical" alt="Vijay's GitHub Stats" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=blue-set&show_icons=true&theme=radical&count_private=true" alt="Vijay's GitHub Stats" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-set&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Streak Stats (Alternative) -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue-set&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/G952i4vs5NQk0/giphy.gif" width="300" alt="Motivational Anime" />
+  <p><i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i></p>
 </div>
 
 ---
